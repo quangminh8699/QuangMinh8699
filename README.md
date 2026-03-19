@@ -1,7 +1,7 @@
-# 👋 Minh Ta  
-Java Backend Developer — building scalable systems  
+# Hi, I'm Minh Ta
 
-Java, Spring Boot • REST • PostgreSQL, Redis • AWS • Docker  
-
-🥇 Best Service Award — TASC Vietnam (2024–2025)  
-🔗 youtube.com/@minhtacoder | linkedin.com/in/quangminh8699/
+- ⚙️ Building scalable systems with Spring Boot  
+- 🧠 Interested in system design & performance  
+- 🤝 Open to collaboration  
+- 🔗 [LinkedIn](https://linkedin.com/in/quangminh8699/)
+- 🎬 [Youtube] (https://www.youtube.com/@minhtacoder)
